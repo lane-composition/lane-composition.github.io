@@ -1,4 +1,5 @@
-# lanerf.github.io
+## Website code for the paper - LANe: Lighting-Aware Neural fields for Compositional Scene Synthesis
 
-For more details about our project and results of LANe on CARLA Datasets, please visit our project page:
-https://lanerf.github.io/
+Authors: Akshay Krishnan*, Amit Raj*, Nikita Jaipuria, Sandhya Sridhar, Alexandra Carlson, Nathan Tseng, Xianling Zhang, James Hays
+
+Page template borrowed from [D-NeRF](https://nerfies.github.io/).
